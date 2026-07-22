@@ -1,0 +1,38 @@
+# Programming Logic Exercises — Intermediate Level
+
+This repository contains a collection of intermediate-level programming logic exercises designed to improve problem-solving skills and strengthen fundamental programming concepts.
+
+The challenges cover different areas of algorithm development, including conditional statements, loops, number manipulation, sequences, matrices, validations, and interactive programs.
+
+## Objectives
+
+* Improve logical thinking and problem-solving abilities.
+* Practice algorithm design and implementation.
+* Strengthen the use of control structures.
+* Work with different data types and collections.
+* Build a foundation for more complex programming projects.
+
+## Exercises Included
+
+* Counting even and odd numbers.
+* Finding the highest and lowest values.
+* Calculating factorials.
+* Checking whether a number is prime.
+* Generating the Fibonacci sequence.
+* Reversing numbers.
+* Student grade classification system.
+* Matrix operations.
+* Number guessing game.
+* ATM withdrawal simulation.
+
+## Technologies
+
+The exercises can be implemented in different programming languages, allowing adaptation to various learning paths and development environments.
+
+## Purpose
+
+This repository is intended for study, practice, and continuous improvement in programming logic. It can be used by students, beginners, and anyone looking to strengthen their algorithmic thinking skills.
+
+## License
+
+This project is licensed under the MIT License.
