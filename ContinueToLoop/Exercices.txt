@@ -1,0 +1,30 @@
+Exercises
+Even Number Finder: Write a program that iterates through numbers from 1 to 20. 
+Use the continue statement to skip odd numbers and print only the even numbers.
+
+Search for a Specific String: Create an array of strings. 
+Prompt the user to enter a string to search for. 
+Iterate through the array and use the break statement to exit the loop when the string is found. 
+Print a message indicating whether the string was found or not.
+
+Nested Loop with break: Create a two-dimensional array (matrix) of integers. 
+Write a program that searches for a specific number within the matrix. 
+Use nested loops and the break statement (with a label) to exit both loops when the number is found. 
+Print the row and column indices where the number was found.
+
+Sum Until Negative: Write a program that continuously prompts the user to enter positive numbers. 
+Calculate the sum of these numbers. If the user enters a negative number, 
+use the break statement to exit the loop and print the final sum.
+
+These exercises provide opportunities to apply the break and continue statements in different scenarios, 
+reinforcing your understanding of how they control loop execution.
+In summary, the break statement allows you to terminate a loop entirely, while the continue statement allows you 
+to skip the rest of the current iteration and proceed to the next. 
+
+Both statements are essential tools for controlling the flow of execution in loops and 
+can significantly enhance the efficiency and flexibility of your Java programs.
+
+Next, you'll learn about code blocks and scope. 
+Understanding how to group statements together and 
+how variables are accessed within different parts 
+of your code is key to writing more organized and maintainable programs.
